@@ -2,13 +2,16 @@
 colour for text in c/c++
 functions from library:
 #color
+
 [1] red();
+<br>
 [2] green();
-[3] yellow();
-[4] yellowblue();
-[5] brown();
-[6] blue();
-[7] bgred();
+<br>
+[3] yellow();<br>
+[4] yellowblue();<br>
+[5] brown();<br>
+[6] blue();<br>
+[7] bgred();<br>
 etc.....
 (+) or using
 functions();
