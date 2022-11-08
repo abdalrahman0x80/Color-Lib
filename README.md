@@ -13,5 +13,5 @@ functions from library:
 [6] blue();<br>
 [7] bgred();<br>
 etc.....
-(+) or using
+(+) or using<br>
 functions();
